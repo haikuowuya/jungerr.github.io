@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Code a fucking world.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-02-19T16:04:13.875Z</updated>
+  <updated>2015-02-20T07:10:28.589Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://yoursite.com/2015/02/19/build-google-emulator/"/>
     <id>http://yoursite.com/2015/02/19/build-google-emulator/</id>
     <published>2015-02-19T08:43:12.000Z</published>
-    <updated>2015-02-19T14:26:20.000Z</updated>
+    <updated>2015-02-20T07:10:05.000Z</updated>
     <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;一直以来，Android官方模拟器以运行缓慢、操作卡顿而倍受诟病，致使很多开发者投奔Genymotion。值得庆幸的是，Intel针对Android推出了Emulator accelerator，借助于Emulator accelerator，可以使Android模拟器达到Genymotion的速度。</p>
 <h2 id="硬件环境">硬件环境</h2>
 <ul>
@@ -29,7 +29,7 @@
 <h2 id="安装Emulator_accelerator">安装Emulator accelerator</h2>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;1. Android SDK Manager → Extras → 安装Intel X86 Emulator Accelerator（HAXM installer）<br> <img src="http://jungerr.qiniudn.com/asm-extras.jpg?imageView/2/w/500" alt="asm-extras"><br> <a id="more"></a></p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;2. 依次打开目录Android SDK → extras → intel Hardware_Accelerated_Execution_Manager，安装IntelHAXM_1.1.1_for_10_9_and_above.dmg。<br> <img src="http://jungerr.qiniudn.com/QQ20150219-1@2x.jpg?imageView/2/w/500" alt="此处输入图片的描述"></p>
-<p> &nbsp;&nbsp;&nbsp;&nbsp;3. 处理器架构分为三种ARM，Intel X86，Intel X86_64，打开Android SDK manager，选择适合自己的System image并下载。（我的是Intel X86）</p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;3. 打开Android SDK manager，选择intel x86 System image并下载。</p>
 <p>  <img src="http://jungerr.qiniudn.com/QQ20150219-2@2x.jpg?imageView/2/w/500" alt="此处输入图片的描述"></p>
 <h2 id="新建并设置AVD">新建并设置AVD</h2>
 <p>Android virtual device manager → create virtaul device，</p>
