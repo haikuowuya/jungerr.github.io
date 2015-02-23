@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[NullPointerException]]></title>
+  <title><![CDATA[Jungly]]></title>
   <subtitle><![CDATA[Code a fucking world.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-02-20T07:10:28.589Z</updated>
+  <updated>2015-02-23T10:25:51.704Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[NullPointerException]]></name>
-    <email><![CDATA[lqg0213@gmail.com]]></email>
+    <name><![CDATA[Jungly]]></name>
+    <email><![CDATA[jungly.ik@gmail.com]]></email>
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
